@@ -1,4 +1,4 @@
 PySeg
 =====
 
-My personal Python Chinese Segmentor
+Python Chinese Segmentor
